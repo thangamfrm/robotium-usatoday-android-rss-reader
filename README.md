@@ -1,5 +1,7 @@
 This Android Test Project uses Robotium to test USAToday RSS Reader Application.
 
+Robotium: https://code.google.com/p/robotium/
+
 Checkout the simple Test Class: TestSelectionListActivity 
 
 Steps:
